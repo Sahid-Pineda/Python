@@ -82,5 +82,3 @@ while(seguir):
                 seguir = False
             case default:
                 print("Opcion no válida")
-
-            
